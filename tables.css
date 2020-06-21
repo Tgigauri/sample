@@ -1,0 +1,27 @@
+#table1,th,td{
+    border:1px solid black;
+    width: 1500px;
+    height: 30%;
+    background-color:rgb(195, 218, 231);
+    border-color:rgb(3, 52, 116);
+    border-collapse: collapse;
+    
+    
+}
+#table2{
+    width: 1500px;
+    height: 30%;
+    margin-top: 15px;
+    background-color:rgb(195, 218, 231);
+    border-collapse: collapse;
+    
+}
+#table3{
+    width: 1500px;
+    height: 30%;
+    margin-top: 15px;
+    background-color:rgb(195, 218, 231);
+    border-style: groove;
+
+
+}
